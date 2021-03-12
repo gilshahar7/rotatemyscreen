@@ -1,0 +1,9 @@
+Package: com.gilshahar7.rotatemyscreen
+Name: RotateMyScreen
+Version: 1.0
+Architecture: iphoneos-arm
+Description: made for iPads that are on a flat surface. Rotate the screen clockwise and counter clockwise using activator.
+Maintainer: gilshahar7 <gilshahardex99@gmail.com>
+Author: gilshahar7 <gilshahardex99@gmail.com>
+Section: Addons (Activator)
+Depends: mobilesubstrate (>= 0.9.5000), libactivator (>= 1.8.3)
